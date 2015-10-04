@@ -3,15 +3,14 @@
 
   <groupId>mk</groupId>
   <artifactId>pr1</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>2.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>pr1</name>
   <url>http://maven.apache.org</url>
   <scm>
-    <connection>scm:git:https://github.com/marcin-kowalski/pr1.git</connection>
-    <developerConnection>scm:git:https://github.com/marcin-kowalski/pr1.git</developerConnection>
-    <tag>HEAD</tag>
+    <connection>scm:git:https://github.com/marcin-kowalski/pr1</connection>
+    <developerConnection>scm:git:https://github.com/marcin-kowalski/pr1</developerConnection>
   </scm>
   
  <distributionManagement>
